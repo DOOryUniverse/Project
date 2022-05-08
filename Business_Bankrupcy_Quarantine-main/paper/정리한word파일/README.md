@@ -1,0 +1,2 @@
+## review는 Bankruptcy prediction using machine learning and an application to the case of the COVID-19 recession 이 논문에 대해 간단하게 한글로 요약한 것
+## 독립변수설명 파일은 LogisticLasso를 이용한 에너지환경산업 기업부도 예측 논문에 나와있는 독립변수들과 계산식 + 해당 변수에 대한 간단한 설명
